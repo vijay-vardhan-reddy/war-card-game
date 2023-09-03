@@ -76,7 +76,7 @@ You can customize the game by modifying the following variables in the code:
 
 ## Contributors
 
-- Vijay Vardhan Reddy (https://github.com/vijay-vardhan-reddy): Project creator and maintainer.
+- [Vijay Vardhan Reddy] (https://github.com/vijay-vardhan-reddy): Project creator and maintainer.
 
 ## License
 
